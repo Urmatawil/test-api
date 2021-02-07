@@ -1,0 +1,52 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "nombre": "tequeños",
+      "descripcion": "Dedos de queso",
+      "ingredientes": ["harina", "sal", "queso", "agua"],
+      "opciones": [
+        {
+          "entrega": ["delivery", "retiro en casa"],
+          "salsa": ["si", "no"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "pastel carne",
+      "descripcion": "Pastelitos rellenos",
+      "ingredientes": ["harina", "sal", "carne", "agua"],
+      "opciones": [
+        {
+          "entrega": ["delivery", "retiro en casa"],
+          "salsa": ["si", "no"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "pastel queso",
+      "descripcion": "Pastelitos rellenos",
+      "ingredientes": ["harina", "sal", "queso", "agua"],
+      "opciones": [
+        {
+          "entrega": ["delivery", "retiro en casa"],
+          "salsa": ["si", "no"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "pastel pollo",
+      "descripcion": "Pastelitos rellenos",
+      "ingredientes": ["harina", "sal", "pollo", "agua"],
+      "opciones": [
+        {
+          "entrega": ["delivery", "retiro en casa"],
+          "salsa": ["si", "no"]
+        }
+      ]
+    }
+  ]
+}
